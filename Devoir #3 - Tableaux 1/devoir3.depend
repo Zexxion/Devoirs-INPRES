@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477504132 source:c:\users\donsc\desktop\inpres\labo prog\devoir3\main.c
+	<stdio.h>
+	<stdlib.h>
+
